@@ -76,18 +76,18 @@ Lá você vê o app em ação, entra pra lista de teste e é avisado quando sair
 
 ## 👤 Sobre o desenvolvedor
 
-**Paulo** é produtor de vídeo e desenvolvedor indie brasileiro. O Mirage nasceu de uma dor real dele mesmo: gravar um vídeo e ter que repostar, uma a uma, em cinco redes diferentes — reexportando, recopiando legenda, perdendo tempo e paciência. Em vez de assinar mais um SaaS de nuvem que sobe seus vídeos pra um servidor qualquer, ele construiu um app nativo que faz o trabalho **no seu celular, sem servidor, sem login e sem mensalidade**. Desenvolve de forma aberta e ouve quem usa.
+<img src="https://paulocodex.com/products/paulo.jpg" alt="Paulo Adriel" width="130" align="left" style="margin-right:18px;border-radius:12px" />
 
-## 🔒 Privacidade
+**Paulo Adriel** é produtor de vídeo e desenvolvedor indie brasileiro. Construo o produto **e** a apresentação dele — código + identidade visual, motion e material de lançamento — do zero ao ar em 30 dias. Trabalho de forma aberta e escuto quem usa. Estúdio [**Paulocodex**](https://paulocodex.com).
 
-O Mirage não tem backend, não coleta seus dados e não conecta suas contas a nenhum terceiro. Todo o processo acontece no seu aparelho. Marcas de redes sociais (Instagram, TikTok, etc.) pertencem aos seus respectivos donos — o Mirage apenas usa o compartilhamento nativo do Android pra entregar seu conteúdo aos apps oficiais.
+<br clear="left" />
 
 ---
 
 <div align="center">
 
-📧 [paulobatista19988@proton.me](mailto:paulobatista19988@proton.me) · 📸 [Instagram](https://instagram.com/paulo.videodev) · 💼 [LinkedIn](https://www.linkedin.com/in/paulo-adriel/) · 🐙 [github.com/Paulothedeveloper](https://github.com/Paulothedeveloper)
+📧 [paulobatista19988@proton.me](mailto:paulobatista19988@proton.me) &nbsp;·&nbsp; 🌐 [paulocodex.com](https://paulocodex.com) &nbsp;·&nbsp; 📸 [Instagram](https://instagram.com/paulo.videodev) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/paulo-adriel/) &nbsp;·&nbsp; 🐙 [github.com/Paulothedeveloper](https://github.com/Paulothedeveloper)
 
-**Mirage — publique uma vez, reflita em todo lugar.**
+_Repositório de **apresentação pública** — o código-fonte é fechado. Nada de dado ou segredo aqui._
 
 </div>
