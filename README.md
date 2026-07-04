@@ -1,90 +1,44 @@
 <div align="center">
 
-<img src="assets/mark.png" width="96" alt="Mirage" />
-
 # Mirage
 
-### Publique uma vez. Reflita em todo lugar.
-**One post. Everywhere.**
+**Publique o mesmo vídeo em todas as suas redes com um toque. E ainda agenda.**
 
-![status](https://img.shields.io/badge/status-em%20desenvolvimento-FCA311?style=flat-square)
-![plataforma](https://img.shields.io/badge/Android-em%20breve-14213D?style=flat-square)
-![iOS](https://img.shields.io/badge/iOS%20%2F%20macOS-em%20desenvolvimento-14213D?style=flat-square)
+![status](https://img.shields.io/badge/status-BETA-FCA311?style=for-the-badge) &nbsp; ![](https://img.shields.io/badge/-Android-1f1f1f?style=for-the-badge)
+
+[![Ver o app](https://img.shields.io/badge/Ver%20o%20app-abrir-FCA311?style=for-the-badge)](https://mirage-social-app.web.app)
 
 </div>
 
----
-
-> 🚧 **Projeto em desenvolvimento — ainda não lançado.** Esta página é a apresentação
-> pública do Mirage. O código-fonte é privado. / *Work in progress — not released yet.
-> This is the public presentation of Mirage; the source code is private.*
 
 ---
 
-## 🇧🇷 O que é
 
-O **Mirage** pega **um vídeo + uma legenda** e ajuda você a publicá-lo em **Instagram,
-TikTok, YouTube Shorts, X e Reddit** — um toque por rede, usando o compartilhamento
-nativo do Android.
+<div align="center"><img src="https://raw.githubusercontent.com/Paulothedeveloper/mirage-app/main/assets/screen-main.png" alt="Mirage" width="760" style="border-radius:12px" /></div>
 
-- **Sem login.** Nunca tocamos nas suas contas.
-- **Sem servidor.** Seu vídeo nunca sai do seu celular.
-- **Sem mensalidade.** Compra única.
-- **5 idiomas** (Português, English, Español, Français, Deutsch).
 
-## 🇺🇸 What it is
+## ✨ O que faz
 
-**Mirage** takes **one video + one caption** and helps you post it to **Instagram, TikTok,
-YouTube Shorts, X and Reddit** — one tap per network, using Android's native share.
-No login, no server, no subscription. Your video never leaves your phone. 5 languages.
+- 1 vídeo → Instagram, TikTok, Shorts, X, Reddit
+- Agenda pra postar depois
+- Android nativo
+- 2 planos de compra única
 
----
+## 🔗 Saiba mais
 
-## 📱 Telas / Screens
+- **Página do projeto:** https://paulocodex.com/p/mirage
+- **Ver o app:** https://mirage-social-app.web.app
+- **Site:** https://mirage-social-app.web.app
 
-<div align="center">
-<img src="assets/screen-lang.png" width="200" alt="Seleção de idioma" />
-<img src="assets/screen-main.png" width="200" alt="Tela principal" />
-<img src="assets/screen-share.png" width="200" alt="Compartilhar" />
-<img src="assets/screen-tutorial.png" width="200" alt="Tutorial" />
-</div>
+## 👤 Sobre o dev
+
+**Paulo Adriel** — produtor de vídeo e desenvolvedor indie brasileiro. Construo o produto **e** a apresentação dele: código + identidade, motion e material de lançamento, do zero ao ar em 30 dias. Estúdio [Paulocodex](https://paulocodex.com).
 
 ---
-
-## ✨ Destaques / Highlights
-
-| | |
-|---|---|
-| 🎯 **1 toque por rede** | Instagram · TikTok · YouTube Shorts · X · Reddit |
-| 🔒 **Privado por design** | Sem conta, sem nuvem, sem coleta |
-| 📥 **Compartilhe pro Mirage** | Editou o vídeo? Envie direto pro app |
-| 🧵 **Fila que não perde** | Publica uma, volta, engatilha a próxima |
-| 🌍 **5 idiomas** | Escolha na primeira abertura |
-| 👁️ **Prévia por rede** | Veja como o post chega antes de disparar |
-
----
-
-## 🛠️ Tecnologia / Tech
-
-- **Android:** Kotlin + Jetpack Compose (Material 3), Room, arquitetura MVVM, **sem backend**.
-- **iOS / macOS:** em desenvolvimento (SwiftUI + StoreKit).
-- Compartilhamento via **Share Intent nativo** — sem API oficial das redes, sem OAuth.
-
----
-
-## 🔗 Links
-
-- 🌐 **Site:** https://mirage-social-app.web.app
-- 🔒 **Privacidade / Privacy:** https://mirage-social-app.web.app/privacy.html
-- 📩 **Contato:** paulobatista19988@proton.me
-
----
-
 <div align="center">
 
-Feito por **Paulo Adriel** · Porto Velho/RO, Brasil
+📧 [paulobatista19988@proton.me](mailto:paulobatista19988@proton.me) &nbsp;·&nbsp; 🌐 [paulocodex.com](https://paulocodex.com) &nbsp;·&nbsp; 🐙 [github.com/Paulothedeveloper](https://github.com/Paulothedeveloper)
 
-<sub>Instagram, TikTok, YouTube, X e Reddit são marcas de seus respectivos donos. O Mirage
-não é afiliado a nenhuma delas — apenas abre o app oficial que você já tem instalado.</sub>
+_Repositório de **apresentação pública** — o código-fonte é fechado. Nada de dado ou segredo aqui._
 
 </div>
