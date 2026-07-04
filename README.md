@@ -8,7 +8,7 @@
 
 Um vídeo, uma legenda — Instagram, TikTok, Shorts, X e Reddit num só toque. Sem login, sem servidor, sem mensalidade.
 
-[![Status](https://img.shields.io/badge/status-BETA-FCA311?style=for-the-badge&labelColor=14213D)](https://mirage-social-app.web.app)
+[![Status](https://img.shields.io/badge/status-BETA-fca311?style=for-the-badge&labelColor=14213D)](https://mirage-social-app.web.app)
 [![Plataforma](https://img.shields.io/badge/Android-FCA311?style=for-the-badge&logo=android&logoColor=14213D&labelColor=14213D)](https://mirage-social-app.web.app)
 [![Ver o app](https://img.shields.io/badge/%E2%96%B6%20Ver%20o%20app-14213D?style=for-the-badge&labelColor=FCA311)](https://mirage-social-app.web.app)
 
