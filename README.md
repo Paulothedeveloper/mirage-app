@@ -74,6 +74,14 @@ O Mirage está em **beta** e você pode conhecer tudo agora:
 
 Lá você vê o app em ação, entra pra lista de teste e é avisado quando sair na Play Store.
 
+## 🥷 Mascote
+
+<img src="https://paulocodex.com/brand/ninjas/mirage.png" alt="Mirage — ninja" width="200" align="right" />
+
+Todo projeto do estúdio tem o **ninja Codex** na cor da sua identidade — o mesmo mascote da casa, recolorido pro tema do **Mirage**.
+
+<br clear="right" />
+
 ## 👤 Sobre o desenvolvedor
 
 <img src="https://paulocodex.com/products/paulo.jpg" alt="Paulo Adriel" width="130" align="left" style="margin-right:18px;border-radius:12px" />
