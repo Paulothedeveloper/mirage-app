@@ -8,9 +8,9 @@
 
 Um vídeo, uma legenda — Instagram, TikTok, Shorts, X e Reddit num só toque. Sem login, sem servidor, sem mensalidade.
 
-[![Status](https://img.shields.io/badge/status-BETA-fca311?style=for-the-badge&labelColor=14213D)](https://mirage-social-app.web.app)
+[![Status](https://img.shields.io/badge/status-Na%20Play%20Store-3dd6a0?style=for-the-badge&labelColor=14213D)](https://mirage-social-app.web.app)
 [![Plataforma](https://img.shields.io/badge/Android-FCA311?style=for-the-badge&logo=android&logoColor=14213D&labelColor=14213D)](https://mirage-social-app.web.app)
-[![Ver o app](https://img.shields.io/badge/%E2%96%B6%20Ver%20o%20app-14213D?style=for-the-badge&labelColor=FCA311)](https://mirage-social-app.web.app)
+[![Ver o app](https://img.shields.io/badge/%E2%96%B6%20Baixar%20na%20Play-14213D?style=for-the-badge&labelColor=FCA311)](https://play.google.com/store/apps/details?id=app.ellae.socialmirror)
 
 </div>
 
@@ -68,7 +68,7 @@ O Mirage é **compra única** — sem assinatura, sem cobrança recorrente, sem 
 
 ## 🚀 Experimente
 
-O Mirage está em **beta** e você pode conhecer tudo agora:
+O Mirage está **na Google Play** e você pode conhecer tudo agora:
 
 ➡️ **[mirage-social-app.web.app](https://mirage-social-app.web.app)**
 
