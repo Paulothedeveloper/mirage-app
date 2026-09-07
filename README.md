@@ -6,11 +6,11 @@
 
 **Publique em todas as redes de uma vez.**
 
-Um vídeo, uma legenda: Instagram, TikTok, Shorts, X e Reddit num só toque. Sem login, sem servidor, sem mensalidade.
+Um vídeo, uma legenda: Instagram, TikTok, Shorts, X e Reddit num só toque. Grátis pra começar, sem login, sem servidor.
 
 [![Status](https://img.shields.io/badge/status-%C3%80%20VENDA-7B61FF?style=for-the-badge&labelColor=14213D)](https://mirage-social-app.web.app)
-[![Plataforma](https://img.shields.io/badge/Android-FCA311?style=for-the-badge&logo=android&logoColor=14213D&labelColor=14213D)](https://mirage-social-app.web.app)
-[![Ver o app](https://img.shields.io/badge/%E2%96%B6%20Baixar%20na%20Play-14213D?style=for-the-badge&labelColor=FCA311)](https://play.google.com/store/apps/details?id=app.ellae.socialmirror)
+[![Plataforma](https://img.shields.io/badge/Android-7B61FF?style=for-the-badge&logo=android&logoColor=14213D&labelColor=14213D)](https://mirage-social-app.web.app)
+[![Ver o app](https://img.shields.io/badge/%E2%96%B6%20Baixar%20na%20Play-14213D?style=for-the-badge&labelColor=7B61FF)](https://play.google.com/store/apps/details?id=app.ellae.socialmirror)
 
 </div>
 
@@ -28,8 +28,9 @@ E o mais importante: **seu vídeo nunca sai do seu telefone**. O Mirage não tem
 - **Um toque por rede.** Legenda pronta, preview na tela, e você confirma cada publicação. Você no controle, sem robô postando às cegas.
 - **Sem login, sem OAuth.** O Mirage nunca conecta suas contas a um terceiro. Menos risco de bloqueio, menos superfície de ataque, zero senha entregue.
 - **Privacidade de verdade.** Não existe servidor Mirage. O vídeo vai do seu celular direto pro app da rede: sem re-upload, sem re-encode, **sem marca d'água de cross-post**.
-- **Sem mensalidade.** Concorrentes cobram de R$ 25 a R$ 130 **por mês**. O Mirage é **compra única:** pagou, é seu.
-- **Leve e nativo.** App Android nativo (Kotlin + Jetpack Compose), tema escuro, funciona offline. Nada de web pesada disfarçada de app.
+- **Grátis pra começar.** Publique em Instagram + TikTok assistindo 1 anúncio rápido por publicação — 1 anúncio libera o post inteiro (as duas redes). Sem mensalidade: o Pro é **compra única** e tira os anúncios pra sempre.
+- **Baixe vídeos das redes.** No plano Completo, cole o link de um post do Instagram, TikTok, X ou Reddit e salve o vídeo na galeria.
+- **Leve e nativo.** App Android nativo (Kotlin + Jetpack Compose), tema claro e escuro, funciona offline. Nada de web pesada disfarçada de app.
 - **Em 5 idiomas.** Português, English, Español, Français e Deutsch: a tela de escolha aparece na primeira abertura.
 
 ## Como funciona
@@ -43,7 +44,7 @@ Sem planilha de horários na cabeça, sem "deixei de postar no TikTok de novo". 
 
 ## Planos
 
-O Mirage é **compra única:** sem assinatura, sem cobrança recorrente, sem pegadinha. Pagou uma vez, é seu pra sempre.
+**Grátis pra começar:** publique em Instagram + TikTok assistindo 1 anúncio rápido por publicação (1 anúncio libera o post inteiro). Quando quiser mais, o Pro é **compra única** — sem assinatura, sem cobrança recorrente: pagou uma vez, é seu pra sempre, e os anúncios somem. O Completo ainda destrava todas as redes, legenda por rede e o baixador de vídeo.
 
 | Plano | Preço | O que libera |
 |---|---|---|
